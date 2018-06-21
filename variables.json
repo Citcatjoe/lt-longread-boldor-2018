@@ -1,0 +1,15 @@
+{
+	"title": "Bol d'or, 80 ans d'aventures humaines",
+	"description": "Avant d’être une histoire d’innovation technologique, de victoires, de records, la reine des régates lémaniques est une affaire de femmes et d’hommes qui ont vécu le pire et le meilleur d’un bout à l’autre du Léman",
+	"authors": "Lionel Pittet, César Greppin",
+	"imgSocial": "social.jpg", 
+
+	"navBarStyle": "black",
+	"navBarOffset": "0",
+	"navBarLocked": false,
+
+	"partner": {
+		"logo": "img/empty.png",
+		"link": "http://www.letemps.ch/"
+	}
+}
